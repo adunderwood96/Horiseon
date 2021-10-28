@@ -1,4 +1,4 @@
-/* Global*/
+/* Global Style*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,9 +17,9 @@ a {
 p {
     font-size: 16px;
 }
-/*End Global*/
+/*Global Style End*/
 
-/*Header*/
+/*Header Style*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,9 +52,9 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*Header End*/
+/*Header Style End*/
 
-/* Hero Start*/
+/* Hero Style*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,9 +63,9 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-/*Hero End*/
+/*Hero Style End*/
 
-/*Services Start*/
+/*Services Style*/
 .content {
     width: 75%;
     display: inline-block;
@@ -81,7 +81,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-#search-engine-optimization {
+#services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,52 +89,17 @@ header nav ul li {
     background-color: #0072bb;
     color: #ffffff;
 }
-#search-engine-optimization img {
+#services img {
     max-height: 200px;
 }
 
-#search-engine-optimization h2 {
+#services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Services Style End*/
 
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*Hero End*/
-
-/*Benefits*/
+/*Benefits Style*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -161,9 +126,9 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-/*Benefits End*/
+/*Benefits Style End*/
 
-/*Footer Start*/
+/*Footer Style Start*/
 footer {
     padding: 30px;
     clear: both;
@@ -174,4 +139,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/*Footer end*/
+/*Footer Style End*/
