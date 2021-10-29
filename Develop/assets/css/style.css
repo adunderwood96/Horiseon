@@ -1,10 +1,10 @@
-/* Global Style*/
+/* Global Selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Global Selector End */
 body {
     background-color: #d9dcd6;
 }
@@ -17,9 +17,9 @@ a {
 p {
     font-size: 16px;
 }
-/*Global Style End*/
+/*Element Selector End*/
 
-/*Header Style*/
+/*Header Selector*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,9 +52,9 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*Header Style End*/
+/*Header Selector End*/
 
-/* Hero Style*/
+/* Hero Selector*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,9 +63,9 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-/*Hero Style End*/
+/*Hero Selector End*/
 
-/*Services Style*/
+/*Services Selector*/
 .content {
     width: 75%;
     display: inline-block;
@@ -78,7 +78,6 @@ header nav ul li {
 
 .float-right {
     float: right;
-    margin-left: 25px;
 }
 
 #services {
@@ -93,42 +92,47 @@ header nav ul li {
     max-height: 200px;
 }
 
-#services h2 {
+#services  h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*Services Style End*/
 
-/*Benefits Style*/
+#services p {
+    padding: 0 20px 20px 20px;
+}
+/*Services Selector End*/
+
+/*Benefits Selector*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 100%px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    text-align: left;
 }
 
-#benefit {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-#benefit h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-#benefit img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*Benefits Style End*/
+/*Benefits Selector End*/
 
-/*Footer Style Start*/
+/*Footer Selector Start*/
 footer {
     padding: 30px;
     clear: both;
@@ -139,4 +143,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/*Footer Style End*/
+/*Footer Selector End*/
