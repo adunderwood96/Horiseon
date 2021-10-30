@@ -6,4 +6,5 @@
 ## Site Location: https://adunderwood96.github.io/Horiseon/
 
 ### Site Preview:
-![Horiseon: Online Solutions] (https://github.com/adunderwood96/Horiseon/blob/c09d918261fcd6d3df680e01b4c728dcafa90a81/Develop/assets/images/horiseon-screenshot.png) 
+
+!['Horiseon: Online Solutions'] (https://github.com/adunderwood96/Horiseon/blob/c09d918261fcd6d3df680e01b4c728dcafa90a81/Develop/assets/images/horiseon-screenshot.png) 
