@@ -7,4 +7,3 @@
 
 ![Horiseon: Online Solutions] (Develop\assets\images\horiseon-screenshot.png)
  
-
