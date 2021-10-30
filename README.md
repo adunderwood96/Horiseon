@@ -8,4 +8,4 @@
 
 ### Site Preview:
 
-![Horiseon: Online Solutions] (https://github.com/adunderwood96/Horiseon/blob/23823a969233ab0bcc596843b63ff43338811c7f/Develop/assets/images/horiseon-screenshot.png) 
+![Horiseon](https://github.com/adunderwood96/Horiseon/blob/main/Develop/assets/images/horiseon-screenshot.png?raw=true)
