@@ -5,6 +5,8 @@
     margin: 0;
 }
 /* Global Selector End */
+
+/* Element Selector */
 body {
     background-color: #d9dcd6;
 }
@@ -132,7 +134,7 @@ header nav ul li {
 }
 /*Benefits Selector End*/
 
-/*Footer Selector Start*/
+/*Footer Selector*/
 footer {
     padding: 30px;
     clear: both;
