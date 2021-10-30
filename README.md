@@ -1,9 +1,10 @@
-# Code Refactor Starter Code: Horiseon 
+# Horiseon: Social Solution Services 
 
-This website challange was developed and edited in order to better understand how to code HTML, CSS, and Git with accessability in mind. I refactored the code from a starter code with feature request from the "client" by optimizing and deleating duplicate styles, as well as changing the stylesheet to flow better with following the HTML layout. 
+-This challenge was to refactor the existing code in order to better understand how to code HTML, CSS, and Git with accessability in mind and is optimized for search engines.
+-Consolidated CSS selectors, and properties to HTML semantics
 
 ## Site Location: 
 
-
+[Horiseon: Online Solutions]
  
 
